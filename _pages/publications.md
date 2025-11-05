@@ -5,12 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+For a complete and up-to-date list of my publications, please visit my <u><a href="https://scholar.google.com/citations?user=ZRSyjGIAAAAJ&hl=en">Google Scholar profile</a></u>.
