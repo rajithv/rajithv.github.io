@@ -12,7 +12,7 @@ Hello, I am Rajith!
 
 I work as a Research Fellow and Lecturer at the [University of Melbourne](https://www.unimelb.edu.au/), conducting research on AI, LLMs, agent-based modelling, neural network architectures, and ethical AI. I lead projects applying data science to complex social and spatial systems.
 
-I am also an AI Consultant at [Quantuma](https://www.quantuma.com/), where I design and prototype intelligent automation tools and decision-support pipelines that combine machine learning, forecasting, and natural-language reasoning. I advise on AI architecture, orchestration, and deployment to enhance scalability and responsiveness of production-grade AI solutions.
+I am also an AI Consultant at [Quantuma](https://www.quantuma.io/), where I design and prototype intelligent automation tools and decision-support pipelines that combine machine learning, forecasting, and natural-language reasoning. I advise on AI architecture, orchestration, and deployment to enhance scalability and responsiveness of production-grade AI solutions.
 
 Previously, I played a key technical role in Australia's COVID-19 pandemic response as a Senior Technical Officer at the University of New England, delivering predictive modelling and simulation frameworks to support national public health policy.
 
