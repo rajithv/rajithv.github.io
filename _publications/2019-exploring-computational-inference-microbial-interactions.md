@@ -10,4 +10,17 @@ This work explores current approaches in inferring microbial interactions and de
 
 ### Recommended citation:
 
-R. Vidanaarachchi, M. E. Shaw and S. K. Halgamuge, "Exploring Computational Inference of Microbial Interactions and their Dynamics," 2019 14th Conference on Industrial and Information Systems (ICIIS), Kandy, Sri Lanka, 2019.
+R. Vidanaarachchi, M. Shaw and S. Halgamuge, "Exploring Computational Inference of Microbial Interactions and their Dynamics," 2019 14th Conference on Industrial and Information Systems (ICIIS), Kandy, Sri Lanka, 2019, pp. 28-33.
+
+### BibTeX
+
+```
+@inproceedings{vidanaarachchi2019exploring,
+  title={Exploring Computational Inference of Microbial Interactions and their Dynamics},
+  author={Vidanaarachchi, Rajith and Shaw, Marnie and Halgamuge, Saman},
+  booktitle={2019 14th Conference on Industrial and Information Systems (ICIIS)},
+  pages={28--33},
+  year={2019},
+  organization={IEEE}
+}
+```

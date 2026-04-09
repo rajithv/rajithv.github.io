@@ -13,4 +13,19 @@ This paper proposes an agent-based model of vehicle activity to quantify energy 
 
 ### Recommended citation:
 
-S. Olmez, A. Whipp, E. Marfleet, J. Thompson, K. Suchak, A. Heppenstall and R. Vidanaarachchi, "An Agent-Based Model of Heterogeneous Driver Behaviour and Its Impact on Energy Consumption and Costs in Urban Space," Energies, vol. 15, no. 11, p. 4031, 2022, doi: 10.3390/en15114031.
+S. Olmez, J. Thompson, E. Marfleet, K. Suchak, A. Heppenstall, E. Manley, A. Whipp and R. Vidanaarachchi, "An Agent-Based Model of Heterogeneous Driver Behaviour and Its Impact on Energy Consumption and Costs in Urban Space," Energies, vol. 15, no. 11, pp. 4031, 2022, doi: 10.3390/en15114031.
+
+### BibTeX
+
+```
+@article{olmez2022agent,
+  title={An agent-based model of heterogeneous driver behaviour and its impact on energy consumption and costs in urban space},
+  author={Olmez, Sedar and Thompson, Jason and Marfleet, Ellie and Suchak, Keiran and Heppenstall, Alison and Manley, Ed and Whipp, Annabel and Vidanaarachchi, Rajith},
+  journal={Energies},
+  volume={15},
+  number={11},
+  pages={4031},
+  year={2022},
+  publisher={MDPI}
+}
+```

@@ -13,4 +13,19 @@ This systematic literature review addresses the intersection of Indigenous Knowl
 
 ### Recommended citation:
 
-M. Perera, R. Vidanaarachchi, S. Chandrashekeran, M. Kennedy, B. Kennedy and S. Halgamuge, "Indigenous Peoples and Artificial Intelligence: A Systematic Review and Future Directions," Big Data & Society, 2025, doi: 10.1177/20539517251349170.
+M. Perera, R. Vidanaarachchi, S. Chandrashekeran, M. Kennedy, B. Kennedy and S. Halgamuge, "Indigenous Peoples and Artificial Intelligence: A Systematic Review and Future Directions," Big Data & Society, vol. 12, no. 2, 2025, doi: 10.1177/20539517251349170.
+
+### BibTeX
+
+```
+@article{perera2025indigenous,
+  title={Indigenous peoples and artificial intelligence: A systematic review and future directions},
+  author={Perera, Maneesha and Vidanaarachchi, Rajith and Chandrashekeran, Sangeetha and Kennedy, Melissa and Kennedy, Brendan and Halgamuge, Saman},
+  journal={Big Data \& Society},
+  volume={12},
+  number={2},
+  pages={20539517251349170},
+  year={2025},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+```

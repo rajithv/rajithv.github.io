@@ -14,3 +14,13 @@ This study employs an agent-based model of vehicle activity to quantify electric
 ### Recommended citation:
 
 S. Olmez, A. Whipp, E. Marfleet, J. Thompson, K. Suchak, A. Heppenstall and R. Vidanaarachchi, "Towards Modelling Energy Demand of Vehicles in Cities: An Agent-Based Method," in Proceedings of the 30th Annual Geographical Information Science Research UK (GISRUK) Conference, Liverpool, UK, 2022, doi: 10.5281/zenodo.6408394.
+
+### BibTeX
+
+```
+@article{suchak2021towards,
+  title={Towards Modelling Energy Demand of Vehicles in Cities: An Agent-Based Method},
+  author={Olmez, Sedar and Whipp, Annabel and Marfleet, Ellie and Thompson, Jason and Suchak, Keiran and Heppenstall, Alison and Vidanaarachchi, Rajith},
+  year={2021}
+}
+```

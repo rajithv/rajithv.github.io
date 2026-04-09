@@ -13,4 +13,19 @@ Microbial Interaction Networks (MINs) provide important information for understa
 
 ### Recommended citation:
 
-R. Vidanaarachchi, M. E. Shaw and S. K. Halgamuge, "IMPARO: Inferring Microbial Interactions Through Parameter Optimisation," BMC Molecular and Cell Biology, vol. 21, 57, 2020, doi: 10.1186/s12860-020-00269-y.
+R. Vidanaarachchi, M. Shaw, S.-L. Tang and S. Halgamuge, "IMPARO: Inferring Microbial Interactions Through Parameter Optimisation," BMC Molecular and Cell Biology, vol. 21, Suppl 1, pp. 34, 2020, doi: 10.1186/s12860-020-00269-y.
+
+### BibTeX
+
+```
+@article{vidanaarachchi2020imparo,
+  title={IMPARO: inferring microbial interactions through parameter optimisation},
+  author={Vidanaarachchi, Rajith and Shaw, Marnie and Tang, Sen-Lin and Halgamuge, Saman},
+  journal={BMC Molecular and Cell Biology},
+  volume={21},
+  number={Suppl 1},
+  pages={34},
+  year={2020},
+  publisher={BioMed Central London}
+}
+```

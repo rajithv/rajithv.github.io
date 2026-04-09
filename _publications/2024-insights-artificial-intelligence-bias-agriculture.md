@@ -13,4 +13,19 @@ This manuscript provides an extensive review of the literature on biases and fai
 
 ### Recommended citation:
 
-M. Mayuravaani, A. Ramanan, M. Perera, D. A. Senanayake and R. Vidanaarachchi, "Insights into Artificial Intelligence Bias: Implications for Agriculture," Digital Society, vol. 3, 48, 2024, doi: 10.1007/s44206-024-00142-x.
+M. Mayuravaani, A. Ramanan, M. Perera, D. A. Senanayake and R. Vidanaarachchi, "Insights into Artificial Intelligence Bias: Implications for Agriculture," Digital Society, vol. 3, no. 3, pp. 48, 2024, doi: 10.1007/s44206-024-00142-x.
+
+### BibTeX
+
+```
+@article{mayuravaani2024insights,
+  title={Insights into artificial intelligence bias: Implications for agriculture},
+  author={Mayuravaani, Mathuranathan and Ramanan, Amirthalingam and Perera, Maneesha and Senanayake, Damith Asanka and Vidanaarachchi, Rajith},
+  journal={Digital Society},
+  volume={3},
+  number={3},
+  pages={48},
+  year={2024},
+  publisher={Springer International Publishing Cham}
+}
+```

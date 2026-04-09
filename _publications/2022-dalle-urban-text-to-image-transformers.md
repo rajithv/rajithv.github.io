@@ -13,4 +13,17 @@ This paper investigates the capabilities and biases of text-to-image methods as 
 
 ### Recommended citation:
 
-S. Seneviratne, D. A. Senanayake, S. Rasnayaka, R. Vidanaarachchi and J. Thompson, "DALLE-URBAN: Capturing the Urban Design Expertise of Large Text to Image Transformers," 2022 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2022, doi: 10.1109/DICTA56598.2022.10034603.
+S. Seneviratne, D. Senanayake, S. Rasnayaka, R. Vidanaarachchi and J. Thompson, "DALLE-URBAN: Capturing the Urban Design Expertise of Large Text to Image Transformers," 2022 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 2022, pp. 1-9, doi: 10.1109/DICTA56598.2022.10034603.
+
+### BibTeX
+
+```
+@inproceedings{seneviratne2022dalle,
+  title={DALLE-URBAN: Capturing the urban design expertise of large text to image transformers},
+  author={Seneviratne, Sachith and Senanayake, Damith and Rasnayaka, Sanka and Vidanaarachchi, Rajith and Thompson, Jason},
+  booktitle={2022 International Conference on Digital Image Computing: Techniques and Applications (DICTA)},
+  pages={1--9},
+  year={2022},
+  organization={IEEE}
+}
+```

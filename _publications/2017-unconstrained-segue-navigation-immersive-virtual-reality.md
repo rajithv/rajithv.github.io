@@ -13,4 +13,17 @@ Virtual reality (VR) is a rapidly growing field with innovative applications. Tw
 
 ### Recommended citation:
 
-S. Herath, V. Dissanayake, S. Rasnayaka, S. Seneviratne, R. Vidanaarachchi and C. Gamage, "Unconstrained Segue Navigation for an Immersive Virtual Reality Experience," Engineer: Journal of the Institution of Engineers, Sri Lanka, vol. 50, no. 4, 2017, doi: 10.4038/engineer.v50i4.7271.
+S. Herath, V. Dissanayake, S. Rasnayaka, S. Seneviratne, R. Vidanaarachchi and C. D. Gamage, "Unconstrained Segue Navigation for an Immersive Virtual Reality Experience," Engineer: Journal of the Institution of Engineers, Sri Lanka, vol. 50, no. 4, 2017.
+
+### BibTeX
+
+```
+@article{herath2017unconstrained,
+  title={Unconstrained Segue Navigation for an Immersive Virtual Reality Experience},
+  author={Herath, S and Dissanayake, V and Rasnayaka, S and Seneviratne, S and Vidanaarachchi, R and Gamage, CD},
+  journal={Engineer: Journal of the Institution of Engineers, Sri Lanka},
+  volume={50},
+  number={4},
+  year={2017}
+}
+```

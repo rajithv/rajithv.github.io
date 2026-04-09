@@ -13,4 +13,15 @@ This study applies self-supervised and semi-supervised computer vision technique
 
 ### Recommended citation:
 
-S. Seneviratne, J. S. Wijnands, K. Nice, H. Zhao, B. Godic, S. Mavoa, R. Vidanaarachchi, M. Stevenson, L. Garcia, R. F. Hunter and J. Thompson, "Urban Feature Analysis from Aerial Remote Sensing Imagery Using Self-Supervised and Semi-Supervised Computer Vision," arXiv preprint arXiv:2208.08047, 2022.
+S. Seneviratne, J. S. Wijnands, K. Nice, H. Zhao, B. Godic, S. Mavoa, R. Vidanaarachchi, M. Stevenson, L. Garcia, R. F. Hunter et al., "Urban Feature Analysis from Aerial Remote Sensing Imagery Using Self-Supervised and Semi-Supervised Computer Vision," arXiv preprint arXiv:2208.08047, 2022.
+
+### BibTeX
+
+```
+@article{seneviratne2022urban,
+  title={Urban feature analysis from aerial remote sensing imagery using self-supervised and semi-supervised computer vision},
+  author={Seneviratne, Sachith and Wijnands, Jasper S and Nice, Kerry and Zhao, Haifeng and Godic, Branislava and Mavoa, Suzanne and Vidanaarachchi, Rajith and Stevenson, Mark and Garcia, Leandro and Hunter, Ruth F and others},
+  journal={arXiv preprint arXiv:2208.08047},
+  year={2022}
+}
+```

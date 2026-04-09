@@ -13,4 +13,15 @@ This paper presents a data-driven agent-based model to support human-centric tra
 
 ### Recommended citation:
 
-R. Vidanaarachchi, J. Thompson, B. Godic and R. McClure, "Data-Driven Agent-Based Model Development to Support Human-Centric Transit-Oriented Design," in Advances in Social Simulation, Springer, Cham, 2022, doi: 10.1007/978-3-031-20179-0_3.
+R. Vidanaarachchi, J. Thompson, B. Godic and R. McClure, "Data-Driven Agent-Based Model Development to Support Human-Centric Transit-Oriented Design," in International Workshop on Agent-Based Modelling of Urban Systems (ABMUS), pp. 16, doi: 10.1007/978-3-031-20179-0_3.
+
+### BibTeX
+
+```
+@inproceedings{vidanaarachchiagentsx,
+  title={Data-Driven Agent-Based Model Development to Support Human-Centric Transit-Oriented Design},
+  author={Vidanaarachchi, Rajith and Thompson, Jason and Godic, Branislava and McClure, Rod},
+  booktitle={International Workshop on Agent-Based Modelling of Urban Systems (ABMUS)},
+  pages={16}
+}
+```
