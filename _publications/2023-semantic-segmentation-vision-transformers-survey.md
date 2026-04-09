@@ -1,6 +1,7 @@
 ---
 title: "Semantic Segmentation using Vision Transformers: A Survey"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2023-semantic-segmentation-vision-transformers-survey
 excerpt: 'A comprehensive survey that reviews and compares the performances of Vision Transformer (ViT) architectures designed for semantic segmentation, covering applications in land coverage analysis, autonomous driving, and medical image analysis.'
 date: 2023-11-01

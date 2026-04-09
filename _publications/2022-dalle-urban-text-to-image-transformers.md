@@ -1,6 +1,7 @@
 ---
 title: "DALLE-URBAN: Capturing the Urban Design Expertise of Large Text to Image Transformers"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2022-dalle-urban-text-to-image-transformers
 excerpt: 'This paper investigates the capabilities and biases of text-to-image methods as they apply to the built environment, evaluating how large generative models capture urban design knowledge.'
 date: 2022-12-01

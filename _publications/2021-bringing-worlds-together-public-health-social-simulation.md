@@ -1,6 +1,7 @@
 ---
 title: "Bringing Worlds Together: When Public Health and Social Simulation Approaches Collide"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2021-bringing-worlds-together-public-health-social-simulation
 excerpt: 'This paper explores the intersection of public health and social simulation approaches, examining how these complementary disciplines can be integrated for improved understanding of complex health systems.'
 date: 2021-01-01

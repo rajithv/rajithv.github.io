@@ -1,6 +1,7 @@
 ---
 title: "Public Support for Proposed Government Policies to Optimise the Social Benefits of Autonomous Vehicles"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2024-public-support-government-policies-autonomous-vehicles
 excerpt: 'This study examines public support for proposed government policies aimed at optimising the social benefits of autonomous vehicles, informing evidence-based policy development.'
 date: 2024-03-01

@@ -1,6 +1,7 @@
 ---
 title: "Generation of Intermediate Viewpoints for Scalable Adaptation of Real World Environments for Virtual Reality"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2017-generation-intermediate-viewpoints-virtual-reality
 excerpt: 'This paper presents a method for generating intermediate viewpoints to enable scalable adaptation of real world environments for virtual reality applications.'
 date: 2017-12-01

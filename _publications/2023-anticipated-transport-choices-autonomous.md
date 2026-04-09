@@ -1,6 +1,7 @@
 ---
 title: "Anticipated Transport Choices in a World Featuring Autonomous Transport Options"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2023-anticipated-transport-choices-autonomous
 excerpt: 'This study investigates how people anticipate their transport mode choices would change in a world featuring autonomous transport options, with implications for urban planning and sustainability.'
 date: 2023-07-01

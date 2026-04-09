@@ -1,6 +1,7 @@
 ---
 title: "Urban Feature Analysis from Aerial Remote Sensing Imagery Using Self-Supervised and Semi-Supervised Computer Vision"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2022-urban-feature-analysis-aerial-remote-sensing
 excerpt: 'This study applies self-supervised and semi-supervised computer vision techniques to analyse urban features from aerial remote sensing imagery, enabling scalable urban environment characterisation.'
 date: 2022-08-17

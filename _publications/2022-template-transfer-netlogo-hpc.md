@@ -1,6 +1,7 @@
 ---
 title: "A Template for Transfer of NetLogo Models to High-Performance Computing Environments for Enhanced Real-World Decision-Support"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2022-template-transfer-netlogo-hpc
 excerpt: 'This paper presents a template for transferring NetLogo agent-based models to high-performance computing environments, enabling enhanced real-world decision-support through faster and larger-scale simulations.'
 date: 2022-01-01

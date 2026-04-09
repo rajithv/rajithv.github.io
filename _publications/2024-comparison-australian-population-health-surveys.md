@@ -1,6 +1,7 @@
 ---
 title: "A Comparison of Content from Across Contemporary Australian Population Health Surveys"
 collection: publications
+research_area: "Public Health & Policy"
 permalink: /publication/2024-comparison-australian-population-health-surveys
 excerpt: 'This study provides a systematic comparison of content from across contemporary Australian population health surveys, identifying overlaps, gaps, and opportunities for harmonisation.'
 date: 2024-06-01

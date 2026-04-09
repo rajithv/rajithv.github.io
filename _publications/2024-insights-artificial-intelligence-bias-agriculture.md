@@ -1,6 +1,7 @@
 ---
 title: "Insights into Artificial Intelligence Bias: Implications for Agriculture"
 collection: publications
+research_area: "AI Ethics & Fairness"
 permalink: /publication/2024-insights-artificial-intelligence-bias-agriculture
 excerpt: 'An extensive review of the literature on biases and fairness in AI focusing on the field of agriculture, discussing the need for a holistic and inclusive approach to mitigate AI biases for the benefit of diverse farming communities.'
 date: 2024-01-01

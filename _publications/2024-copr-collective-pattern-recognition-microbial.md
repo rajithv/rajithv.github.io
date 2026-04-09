@@ -1,6 +1,7 @@
 ---
 title: "CoPR: Collective Pattern Recognition — A Framework for Microbial Community Activity Analysis"
 collection: publications
+research_area: "Microbiology & Bioinformatics"
 permalink: /publication/2024-copr-collective-pattern-recognition-microbial
 excerpt: 'We present CoPR (Collective Pattern Recognition), a framework for analysing microbial community activity by recognising collective patterns in complex microbiome data.'
 date: 2024-06-01

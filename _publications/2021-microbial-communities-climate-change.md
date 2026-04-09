@@ -1,6 +1,7 @@
 ---
 title: "From The International Space Station To Tropical Rainforests And Polar Ice Caps: Microbial Communities Foretell The Effects Of Climate Change"
 collection: publications
+research_area: "Microbiology & Bioinformatics"
 permalink: /publication/2021-microbial-communities-climate-change
 excerpt: 'This study examines how microbial communities across diverse environments — from the International Space Station to tropical rainforests and polar ice caps — can foretell the effects of climate change.'
 date: 2021-08-01

@@ -1,6 +1,7 @@
 ---
 title: "Unconstrained Segue Navigation for an Immersive Virtual Reality Experience"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2017-unconstrained-segue-navigation-immersive-virtual-reality
 excerpt: 'This paper addresses the challenge of providing greater interactivity in immersive virtual reality experiences based on real-world adaptations, tackling restrictions due to large storage needs and high computational requirements for generating dynamic intermediate views.'
 date: 2017-10-01

@@ -1,6 +1,7 @@
 ---
 title: "The Potential of Autonomous Delivery Services to Increase Fast-Food Consumption"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2024-potential-autonomous-delivery-fast-food
 excerpt: 'This study investigates the potential of autonomous delivery services to increase fast-food consumption, examining the public health implications of emerging delivery technologies.'
 date: 2024-01-01

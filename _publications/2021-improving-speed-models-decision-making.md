@@ -1,6 +1,7 @@
 ---
 title: "Improving Speed of Models for Improved Real-World Decision-Making"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2021-improving-speed-models-decision-making
 excerpt: 'This technical report examines approaches to improving the computational speed of models to enhance their utility in real-world decision-making contexts.'
 date: 2021-01-01

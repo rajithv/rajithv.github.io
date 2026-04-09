@@ -1,6 +1,7 @@
 ---
 title: "Real Time Parameter Changes in Agent-Based Models with Mesa"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2025-real-time-parameter-changes-agent-based-models-mesa
 excerpt: 'This paper presents capabilities for modifying parameters in real-time within Mesa-based agent-based model simulations, enhancing the interactive exploration of complex system dynamics.'
 date: 2021-01-01

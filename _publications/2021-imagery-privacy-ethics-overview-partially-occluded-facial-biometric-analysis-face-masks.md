@@ -1,6 +1,7 @@
 ---
 title: "Imagery, Privacy and Ethics: An Overview of Partially Occluded Facial Biometric Analysis in the Era of Face Masks"
 collection: publications
+research_area: "AI Ethics & Fairness"
 permalink: /publication/2021-imagery-privacy-ethics-overview-partially-occluded-facial-biometric-analysis-face-masks
 excerpt: 'The COVID-19 pandemic has drastically changed human lifestyles, with implications on many aspects of human life. With the proliferation of masks to combat the spread of the virus, many computer vision workflows have been inadvertently affected to varying degrees.'
 date: 2022-02-11

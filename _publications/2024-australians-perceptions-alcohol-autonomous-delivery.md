@@ -1,6 +1,7 @@
 ---
 title: "Australians' Perceptions of the Potential Effects of Increased Access to Alcohol via Autonomous Delivery Services: A Multi-Method Study"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2024-australians-perceptions-alcohol-autonomous-delivery
 excerpt: 'A multi-method study examining Australians perceptions of how increased access to alcohol via autonomous delivery services could affect consumption patterns and public health outcomes.'
 date: 2024-01-01

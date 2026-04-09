@@ -1,6 +1,7 @@
 ---
 title: "Potential Effects of Autonomous Vehicles on Transport Mode Choice and Sedentary Behaviour in an Australian Context — A Modelling Study"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2025-potential-effects-autonomous-vehicles-transport-mode
 excerpt: 'A modelling study examining the potential effects of autonomous vehicles on transport mode choice and sedentary behaviour in an Australian context, using agent-based simulation.'
 date: 2025-01-01

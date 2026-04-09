@@ -1,6 +1,7 @@
 ---
 title: "Data-Driven Agent-Based Model Development to Support Human-Centric Transit-Oriented Design"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2022-data-driven-agent-based-model-tod-design
 excerpt: 'This paper presents a data-driven agent-based model to support human-centric transit-oriented development (TOD) design, integrating empirical data with simulation to inform urban planning decisions.'
 date: 2022-05-10

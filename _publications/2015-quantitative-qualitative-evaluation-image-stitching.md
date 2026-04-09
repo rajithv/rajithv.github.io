@@ -1,6 +1,7 @@
 ---
 title: "Quantitative and Qualitative Evaluation of Performance and Robustness of Image Stitching Algorithms"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2015-quantitative-qualitative-evaluation-image-stitching
 excerpt: 'A comprehensive evaluation of image stitching algorithms, comparing their performance and robustness through quantitative and qualitative measures.'
 date: 2015-11-01

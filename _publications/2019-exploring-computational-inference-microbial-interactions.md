@@ -1,6 +1,7 @@
 ---
 title: "Exploring Computational Inference of Microbial Interactions and their Dynamics"
 collection: publications
+research_area: "Microbiology & Bioinformatics"
 permalink: /publication/2019-exploring-computational-inference-microbial-interactions
 excerpt: 'This work explores current approaches in inferring microbial interactions and demonstrates that they are dynamic in nature, proposing a visualisation approach for observing the dynamic nature of microbial interaction networks.'
 date: 2019-12-18

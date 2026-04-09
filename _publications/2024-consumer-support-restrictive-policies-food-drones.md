@@ -1,6 +1,7 @@
 ---
 title: "Consumer Support for Restrictive Policies on Unhealthy Food and Beverage Delivery via Drones"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2024-consumer-support-restrictive-policies-food-drones
 excerpt: 'This study examines consumer support for restrictive policies on unhealthy food and beverage delivery via drones, providing evidence for public health policy development around emerging delivery technologies.'
 date: 2024-12-01

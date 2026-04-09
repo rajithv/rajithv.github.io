@@ -1,6 +1,7 @@
 ---
 title: "Towards Modelling Energy Demand of Vehicles in Cities: An Agent-Based Method"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2022-towards-modelling-energy-demand-vehicles-cities
 excerpt: 'This study employs an agent-based model of vehicle activity to quantify electric energy consumption through the simulation of a heterogeneous fleet of electric vehicles within an urban street network.'
 date: 2022-04-02

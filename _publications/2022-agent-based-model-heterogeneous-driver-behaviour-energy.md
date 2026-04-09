@@ -1,6 +1,7 @@
 ---
 title: "An Agent-Based Model of Heterogeneous Driver Behaviour and Its Impact on Energy Consumption and Costs in Urban Space"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2022-agent-based-model-heterogeneous-driver-behaviour-energy
 excerpt: 'This paper proposes an agent-based model of vehicle activity to quantify energy consumption by simulating a fleet of electric vehicles within an urban street network, finding that driver behaviour plays a significant role in energy consumption.'
 date: 2022-05-30

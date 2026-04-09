@@ -1,6 +1,7 @@
 ---
 title: "Dimensionality Reduction for Visualizing High-Dimensional Biological Data"
 collection: publications
+research_area: "Microbiology & Bioinformatics"
 permalink: /publication/2022-dimensionality-reduction-high-dimensional-biological-data
 excerpt: 'A comprehensive study on dimensionality reduction methods applied to high-dimensional biological data, evaluating techniques for effective visualization and analysis.'
 date: 2022-09-01

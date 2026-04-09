@@ -1,6 +1,7 @@
 ---
 title: "AgentsX.jl — An Extended Julia Framework for Exploring Urban and Social Systems"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2022-agentsx-extended-julia-framework-exploring-urban-social-systems
 excerpt: 'We present the key design ideas for a proposed extension and interface to the Agents.jl framework for ABM for urban and social systems simulation — AgentsX.jl — that provides greater flexibility of agent definitions for urban and social researchers.'
 date: 2022-03-11

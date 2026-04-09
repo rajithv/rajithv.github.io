@@ -1,6 +1,7 @@
 ---
 title: "IMPARO: Inferring Microbial Interactions Through Parameter Optimisation"
 collection: publications
+research_area: "Microbiology & Bioinformatics"
 permalink: /publication/2020-imparo-inferring-microbial-interactions-parameter-optimisation
 excerpt: 'We present IMPARO, a method for inferring microbial interactions through parameter optimisation that uses biologically meaningful models for both the abundance profile and the Microbial Interaction Network (MIN).'
 date: 2020-08-19

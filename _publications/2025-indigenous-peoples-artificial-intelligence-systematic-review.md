@@ -1,6 +1,7 @@
 ---
 title: "Indigenous Peoples and Artificial Intelligence: A Systematic Review and Future Directions"
 collection: publications
+research_area: "AI Ethics & Fairness"
 permalink: /publication/2025-indigenous-peoples-artificial-intelligence-systematic-review
 excerpt: 'A systematic literature review addressing the intersection of Indigenous Knowledge Systems (IKS) and artificial intelligence (AI), exploring how AI can be developed and deployed in ways that respect and integrate indigenous perspectives.'
 date: 2025-03-01

@@ -1,6 +1,7 @@
 ---
 title: "How Will Physical Activity Change in an Autonomous Future?"
 collection: publications
+research_area: "Autonomous Vehicles & Society"
 permalink: /publication/2024-physical-activity-autonomous-future
 excerpt: 'This study examines how the introduction of autonomous vehicles and delivery services may affect physical activity levels, with implications for public health planning.'
 date: 2024-01-01

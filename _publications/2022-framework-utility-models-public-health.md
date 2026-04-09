@@ -1,6 +1,7 @@
 ---
 title: "A Framework for Considering the Utility of Models When Facing Tough Decisions in Public Health: A Guideline for Policy-Makers"
 collection: publications
+research_area: "Public Health & Policy"
 permalink: /publication/2022-framework-utility-models-public-health
 excerpt: 'We present a three-stage framework to help policy-makers assess which models will be most helpful when taking public health decisions, motivated by the rapid development of models during the COVID-19 pandemic.'
 date: 2022-10-08

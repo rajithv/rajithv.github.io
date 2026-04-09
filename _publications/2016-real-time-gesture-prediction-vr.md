@@ -1,6 +1,7 @@
 ---
 title: "Real-Time Gesture Prediction Using Mobile Sensor Data for VR Applications"
 collection: publications
+research_area: "Computer Vision & VR"
 permalink: /publication/2016-real-time-gesture-prediction-vr
 excerpt: 'This paper presents a real-time gesture prediction system using mobile sensor data for virtual reality applications.'
 date: 2016-01-01

@@ -1,6 +1,7 @@
 ---
 title: "Towards an Agent-Based Platform for Crisis Management"
 collection: publications
+research_area: "Agent-Based Modelling"
 permalink: /publication/2024-towards-agent-based-platform-crisis-management
 excerpt: 'This paper presents progress towards developing an agent-based platform for crisis management, leveraging simulation to support decision-making in emergency scenarios.'
 date: 2024-01-01
