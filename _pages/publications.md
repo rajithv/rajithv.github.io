@@ -107,7 +107,6 @@ For a complete and up-to-date list of my publications, please visit my <u><a hre
   var yearSelect = document.getElementById('year-filter');
   var countEl = document.getElementById('pub-count');
 
-  // Populate year dropdown from actual data
   var years = {};
   entries.forEach(function(e) { years[e.dataset.year] = true; });
   var sortedYears = Object.keys(years).sort().reverse();
@@ -147,7 +146,6 @@ For a complete and up-to-date list of my publications, please visit my <u><a hre
 
   yearSelect.addEventListener('change', applyFilters);
 
-  // Initial count
   applyFilters();
 })();
 </script>
