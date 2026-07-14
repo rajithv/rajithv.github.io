@@ -6,9 +6,11 @@ permalink: /publication/2026-evaluating-topology-preservation-dimensionality-red
 excerpt: 'A comparative analysis of dimensionality reduction methods, evaluating how well each preserves the underlying topology of high-dimensional metagenomic data.'
 date: 2026-03-01
 venue: '2026 International Conference on Image Processing and Robotics (ICIPRoB)'
-paperurl: ''
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11497819'
 ---
 This work presents a comparative analysis of dimensionality reduction methods applied to metagenomic data, with a focus on how well each method preserves the topological structure of the original high-dimensional space. Faithful topology preservation is critical for downstream interpretation of microbial community data, and this study benchmarks several approaches to guide method selection for metagenomic analysis.
+
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/11497819)
 
 ### Recommended citation:
 
