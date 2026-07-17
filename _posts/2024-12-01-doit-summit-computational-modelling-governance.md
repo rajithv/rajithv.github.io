@@ -13,6 +13,11 @@ Now that a new government has settled into office in Sri Lanka, I have been refl
 
 In August 2024, I spoke at the DoIT Summit, held during a period of considerable political change in the country. It was a different audience and a different venue than I had ever pictured for myself as an academic — but it was a genuine pleasure to contribute to the conversation through a research lens.
 
+<figure>
+  <img src="/images/doit-summit-speech.jpg" alt="Rajith Vidanaarachchi speaking at a podium at the DoIT Summit">
+  <figcaption>Speaking at the DoIT Summit, August 2024.</figcaption>
+</figure>
+
 I was invited by Eranga Weeraratne, who has since become the Deputy Minister of Digital Economy, and who at the time was a driving force behind the ICT initiatives within the movement he was part of. I am grateful to him for the opportunity to bring an academic perspective into a wider discussion about the country's future.
 
 My talk was about how computational modelling can help governments make more tested, evidence-based decisions — decisions that aim for better outcomes for the public. Rather than relying on intuition or ideology alone, models let us simulate policies before they are rolled out, weigh trade-offs, and better understand who a decision helps and who it might affect. Used carefully, this is a tool for more transparent, science-informed policy design.
