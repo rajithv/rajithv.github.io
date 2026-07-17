@@ -1,7 +1,7 @@
 ---
 title: "Complex Social Systems: Housing"
 collection: talks
-type: "Conference Presentation"
+type: "Invited Talk"
 permalink: /talks/2025-lcc-complex-social-systems-housing
 venue: "Life Course Centre Conference (ARC Centre of Excellence for Children and Families over the Life Course)"
 date: 2025-07-24
