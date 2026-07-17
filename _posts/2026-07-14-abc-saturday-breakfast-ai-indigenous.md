@@ -16,6 +16,13 @@ Last Saturday (11 July), I had the pleasure of joining Brian Nankervis on [ABC R
   <figcaption>With Brian Nankervis at the ABC Studios, Melbourne.</figcaption>
 </figure>
 
+You can listen to the interview here:
+
+<audio controls preload="metadata" style="width: 100%; max-width: 500px;">
+  <source src="/files/abc-naidoc-interview.mp3" type="audio/mpeg">
+  Your browser does not support the audio element. <a href="/files/abc-naidoc-interview.mp3">Download the interview (MP3).</a>
+</audio>
+
 We spoke about a question that sits at the heart of our research: how could artificial intelligence affect Indigenous Peoples, and what needs to be considered at the intersection of Indigenous Knowledges and AI?
 
 It's a conversation with two sides. AI carries real risks for Indigenous communities — of becoming another extractive force that takes Indigenous Knowledges without consent, credit or return, and of entrenching historical biases into systems that make decisions about people's lives. But it also holds genuine promise: as a tool for preserving language and Country, and for building solutions to challenges that Indigenous communities themselves have identified.
@@ -25,5 +32,3 @@ Getting the balance right means Indigenous Peoples must be in the room — not c
 Speaking about this work on the radio, with Brendan there to speak to it from lived experience and cultural authority, was a reminder of why we do research in partnership in the first place. If you'd like to go deeper, our recent piece in Pursuit covers the research behind the conversation: [AI must be built with Indigenous Knowledges, not against them](/posts/2026/07/ai-indigenous-knowledges/).
 
 I ended the chat with a line I'll happily stand by: **as AI speeds through our worlds, let's put a human in the driving seat.**
-
-*Audio clip coming soon.*
