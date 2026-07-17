@@ -10,6 +10,11 @@ location: "Brisbane, Australia"
 
 Presented on housing as a complex social system and how agent-based modelling (ABM) can be used to understand and inform housing policy.
 
+<figure>
+  <img src="/images/lcc-conference-housing-talk.jpg" alt="Rajith Vidanaarachchi presenting 'Complex Social Systems: Housing' at a podium at the International Life Course Conference 2025">
+  <figcaption>Presenting "Complex Social Systems: Housing" at the International Life Course Conference 2025, Brisbane.</figcaption>
+</figure>
+
 I began by discussing what makes social systems complex — multiple interacting inputs, non-linear dynamics, feedback loops, contested evidence, and the modeller's own role in data collection and analysis. I then framed housing as a complex social system in its own right: one shaped by multiple interacting agents (households, developers, financial institutions and governments), heterogeneity and inequality, feedback loops, and emergent phenomena such as bubbles, segregation, gentrification and affordability crises.
 
 Drawing on the idea that good models are, in Picasso's words, "lies that help us see the truth", I argued that computational models are valuable because they force us to make our implicit assumptions explicit, stripping out noise to reveal the most important dynamics.
