@@ -1,5 +1,5 @@
 ---
-title: 'An honour: our research before the Senate Select Committee on Intergenerational Housing Inequity'
+title: 'Submission to the Senate Select Committee on Intergenerational Housing Inequity'
 date: 2026-06-26
 permalink: /posts/2026/06/senate-committee-intergenerational-housing/
 excerpt: 'Research I contributed to helped underpin the Life Course Centre''s submission to the Senate Select Committee on Intergenerational Housing Inequity — a first for me, and a great honour.'
