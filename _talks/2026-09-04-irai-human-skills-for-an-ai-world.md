@@ -4,7 +4,7 @@ collection: talks
 type: "Panel"
 permalink: /talks/2026-irai-human-skills-for-an-ai-world
 venue: "IEEE International Conference on Responsible Artificial Intelligence (IRAI 2026)"
-date: 2026-09-03
+date: 2026-09-04
 location: "La Trobe University City Campus, Melbourne, Australia"
 ---
 
